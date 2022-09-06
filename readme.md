@@ -1,1 +1,7 @@
-![competition](https://user-images.githubusercontent.com/111218991/186434969-069a94ee-ecd9-4b82-b9d5-43aeb332abee.gif)
+[root@github]# cat /dippio/readme.md
+
+<p align ="center">
+hi, i'm tyler. <br>
+developer // musician // editor
+</p>
+
